@@ -1,4 +1,4 @@
 antiserver
 ==========
 
-My simple java server.
+Simple Jetty server.
